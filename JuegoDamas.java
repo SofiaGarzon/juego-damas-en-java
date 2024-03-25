@@ -21,10 +21,13 @@ public class DamasV2 {
     System.out.println();
     System.out.println(
       COLOR_ROJO +
-      "Desarrollado por Karen Sofía Garzón Rubiano" +
+      "Desarrollado por: " +
       REINICIAR_COLOR
     );
-    System.out.println(COLOR_ROJO + "Código: 6001090" + REINICIAR_COLOR);
+    System.out.println(COLOR_ROJO + "Karen Sofia Garzonr Rubiano. 6001090" + REINICIAR_COLOR);
+    System.out.println(COLOR_ROJO + "Mishel Lorena Obando Cardenas. 6001000" + REINICIAR_COLOR);
+    System.out.println(COLOR_ROJO + "Manuel Felipe Cruz Garcia. 6001061" + REINICIAR_COLOR);
+    System.out.println(COLOR_ROJO + "Juan Pablo Godoy." + REINICIAR_COLOR);
     System.out.println();
     mostrarReglas();
     System.out.println();
